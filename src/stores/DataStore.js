@@ -23,7 +23,6 @@ export default class DataStore {
   @action
    containContact(contact) {
     this.contact = contact
-    console.log('this.contact: ', this.contact);
   }
 
   @action

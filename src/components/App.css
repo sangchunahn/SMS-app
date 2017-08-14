@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 65px;
+  padding: 20px;
+  color: white;
+}
+
+.main-container {
+  width: 100%;
+  display: flex;
+}
+
+.send-message {
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+  font-size: 20px;
+}
